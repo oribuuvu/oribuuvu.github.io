@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oribuuvu.github.io/COj/sitemap_index.txt
+Sitemap: https://oribuuvu.github.io/Kdk/sitemap_index.txt
+Sitemap: https://oribuuvu.github.io/Zwq/sitemap_index.txt
+Sitemap: https://oribuuvu.github.io/gGh/sitemap_index.txt
